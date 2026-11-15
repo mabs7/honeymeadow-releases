@@ -1,7 +1,7 @@
-# Honeymeadow Releases
+# Honeymeadow
 
-Public release repository for **Honeymeadow**, an offline 2D bee adventure game for Android.
+An offline 2D bee adventure game for Android. Play as Pip, gather nectar from meadow flowers, and bring it home to Willow Hive in untimed **Free Roam** or across 20 chapters in **Campaign**. No ads or accounts required.
 
-- **Purpose:** Hosts compiled Android `.apk` builds and release metadata (`version.json`) for in-app updates.
-- **Download:** [Latest Honeymeadow.apk](https://github.com/mabs7/honeymeadow-releases/releases/latest/download/Honeymeadow.apk) (Android 7.0 or newer)
-- **Source code:** Maintained in a private repository.
+## Download for Android
+
+**[Download the latest Honeymeadow APK](https://github.com/mabs7/honeymeadow-releases/releases/latest/download/Honeymeadow.apk)** *(Android 7.0 or newer)*
