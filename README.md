@@ -1,7 +1,7 @@
-# Honeymeadow Android Releases
+# Honeymeadow Releases
 
-Public Android APK distribution channel for Honeymeadow.
+Public release repository for **Honeymeadow**, an offline 2D bee adventure game for Android.
 
-- Source code is maintained in a private repository.
-- **Latest APK:** https://github.com/mabs7/honeymeadow-releases/releases/latest/download/Honeymeadow.apk
-- **Update metadata:** `version.json` attached to the latest release.
+- **Purpose:** Hosts compiled Android `.apk` builds and release metadata (`version.json`) for in-app updates.
+- **Download:** [Latest Honeymeadow.apk](https://github.com/mabs7/honeymeadow-releases/releases/latest/download/Honeymeadow.apk) (Android 7.0 or newer)
+- **Source code:** Maintained in a private repository.
